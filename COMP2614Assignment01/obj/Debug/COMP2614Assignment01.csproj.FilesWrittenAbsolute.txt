@@ -1,0 +1,5 @@
+/Users/erin/Documents/Programming/COMP 2614/COMP2614Assignment01/COMP2614Assignment01/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/erin/Documents/Programming/COMP 2614/COMP2614Assignment01/COMP2614Assignment01/bin/Debug/COMP2614Assignment01.exe.mdb
+/Users/erin/Documents/Programming/COMP 2614/COMP2614Assignment01/COMP2614Assignment01/bin/Debug/COMP2614Assignment01.exe
+/Users/erin/Documents/Programming/COMP 2614/COMP2614Assignment01/COMP2614Assignment01/obj/Debug/COMP2614Assignment01.exe
+/Users/erin/Documents/Programming/COMP 2614/COMP2614Assignment01/COMP2614Assignment01/obj/Debug/COMP2614Assignment01.exe.mdb

@@ -1,0 +1,6 @@
+C:\Users\A00834629\COMP2614Assignment01\COMP2614Assignment01\bin\Debug\COMP2614Assignment01.exe.config
+C:\Users\A00834629\COMP2614Assignment01\COMP2614Assignment01\obj\Debug\COMP2614Assignment01.csprojResolveAssemblyReference.cache
+C:\Users\A00834629\COMP2614Assignment01\COMP2614Assignment01\bin\Debug\COMP2614Assignment01.exe
+C:\Users\A00834629\COMP2614Assignment01\COMP2614Assignment01\bin\Debug\COMP2614Assignment01.pdb
+C:\Users\A00834629\COMP2614Assignment01\COMP2614Assignment01\obj\Debug\COMP2614Assignment01.exe
+C:\Users\A00834629\COMP2614Assignment01\COMP2614Assignment01\obj\Debug\COMP2614Assignment01.pdb
